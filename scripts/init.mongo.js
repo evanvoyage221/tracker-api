@@ -14,6 +14,8 @@
 /* global db print */
 /* eslint no-restricted-globals: "off" */
 
+
+
 db.issues.remove({});
 db.deleted_issues.remove({});
 
